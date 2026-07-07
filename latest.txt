@@ -1,5 +1,5 @@
 {
   "version": "2026.6.5",
   "fileName": "Assembly-CSharp-2026.6.5.dll",
-  "downloadUrl": "https://raw.githubusercontent.com/AU-Avengers/AmongUs.AssemblyCSharp/57990cc7f44fbe3dd7bb272037bcb9566c00abef/Assembly-CSharp-2026.6.5.dll"
+  "downloadUrl": "https://github.com/AU-Avengers/AmongUs.AssemblyCSharp/raw/refs/heads/main/Assembly-CSharp-2026.6.5.dll"
 }
